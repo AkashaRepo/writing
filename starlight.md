@@ -3,7 +3,7 @@ Starlight
 
 A short story by Nathaniel Sheppard.
 
-Special thanks to Winchell Chung of Atomic Rockets, Zach Weiner of Saturday Morning Breakfast Cereal, Randal Munroe of XKCD, and all the great science fiction writers of the XXth century.
+Special thanks to Winchell Chung of Atomic Rockets, Zach Weiner of Saturday Morning Breakfast Cereal, Randal Munroe of XKCD, and all the great science fiction writers of the XXth century. Also thanks to Neal Durando for feeding my own advice back to me.
 
 Part one
 --------
