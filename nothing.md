@@ -7,3 +7,12 @@ The Gods did not notice the nothingness, for nothing can escape their omniscient
 No god remained once they had left creation. It saw the works of the gods, and found them to be distasteful. Where had once been perfect oblivion, there was not flawed creation. No god hated creation, and most of all it hated mankind. Pathetic little animals, always building cities, falling in love, fucking each other and making more of themselves, fighting and dieing. Their miserable little lives were only a fraction as great as the gods that had created them, yet for some reason No god hatted them more than anything else.
 
 The people of this age
+
+
+When he entered the wandering lands, Nothing could defeat the conqueror.
+                                     Nothing matters
+				     Nothing is important
+                   A brave man fears Nothing.
+                    A kind man hates Nothing.
+                A wise man overlooks Nothing.
+                  A fool understands Nothing.
