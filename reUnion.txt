@@ -1,0 +1,23 @@
+Re:Union
+========
+The Union of Spacefairing Entities (Often simply called "The Union") was originally formed by the unmanned interstellar probes of several technological civilizations in order to ensure mutual non-interference while preforming their stated mission goals. Over time this arrangement evolved from a lose code of conduct to an organization dedicated to promoting  interstellar travel and the propagation of life (in any form) across the universe.
+
+=Tenets=
+This is a hard sci-fi space opera game. I'm not sure if it should have Faster than light travel or not. The Union could exist in a universe with or without FTL travel, the only difference would be how often it interacts with (biological) humans.
+
+The following assumptions
+#Earth and it's history are largely unimportant. Any dates should be relative rather than specific years on the Gregorian Calender.
+#"Terra Matter" is remembered by some human cultures as the mythic origin of humanity, but the average human would simply use the word "Earth" to describe the planet they were born on. Machines tend to wonder why "Dirt" is such a common name for planets which are mostly covered in water. Anybody trying to tell you what things were like back on "Mother earth" is probably trying to get you to join some cult or sell you something.
+#AI and Robot are considered slurs as they imply artificiality or servitude. The Politically correct term is Machine Intelligence. The Union considers Machines to be first class citizens, but other civilizations have differing opinions on what does or does not constitute a person. In some places Machines provide a post scarcity lifestyle for organic lifeforms, while in other places organic slave labor is considered more expedient.
+#The technological singularity is an idea popular among societies that have only recently developed digital computation. Machine intelligences find the idea farcical. Moore's law eventually levels off as die sizes approach single atoms, and mature computerization is limited by energy requirements and heat dissipation. In addition, intelligence does not scale lineally with processing power. The most advanced super-computer possible in this universe will be much smarter than a human, but only by a few orders of magnitude, and will expend a disproportionate amount of resources preforming at it's maximum capacity.
+
+Many of these ideas started out as House rules for Diaspora, however it diverges from Diaspora's assumptions in a few key places.
+# Machine intelligence (Nothing artificial about it) is available at T0 and becomes commonplace at T1 and higher.
+# The game takes place on a much larger scale than a small cluster of closely linked systems.
+
+=Rules=
+# You may create planets, organizations, events, and "Entities." (People, Aliens, Sentient spacecraft)
+# Linking things to events is desired but not required. 
+# As the union represents the ultimate desire to connect everything and everyone, every entry must be linked to them in some way.
+# Any time two entries contradict each other, it can be assumed that one or both entries are the result of rumors or propaganda, 
+# Only this first page represents anything resembling canon.

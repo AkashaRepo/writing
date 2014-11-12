@@ -1,0 +1,7 @@
+"If you don't mind my asking, why bother giving a bomb free will?" The weapons officer asked from her pod onboard the UGS iChoseNoise.
+"I am an X-ray laser munitions package, thank you very much. The 'bomb' you speak of, is only one part of of a larger whole. The personality you are communicating with resides in the substraits of it's Targeting computer." 0xBA replied, it's synthetic voice modulated in a way that a human of Tara's cultural group would interpret as being mildly offended.
+"I'm sorry..." Tara paused. 0xBA was capable of feeling such emotions, but right now was simply faking it for effect. This was slightly dishonest, but then again 0xBA WAS a weapon.
+"...I mean like, that bomb powers your lasers when it goes of. Aren't you afraid to die?" Tara asked, her curiosity overcoming the embarrassment.
+"It would depend on the person. I won't pretend I don't feel fear, but fear of ones own death is not part of my programming." 0xBA replied, adjusting it's voice to a more sincere intonation, having had it's fun at the human's expense.
+"So afraid of something?" She asked hesitantly. once again curiosity getting the better of her.
+"I fear many things. I fear what the Bugs might do to your planet, I fear the possibility of my weapons harming an innocent being by accident, or being subverted by an Electronic warfare attack. Most of all I fear my potential being wasted."
