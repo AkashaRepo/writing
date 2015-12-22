@@ -1,35 +1,35 @@
 House rules and other goodies for Diaspora.
 
-* Artificial Intelligence.
+# Artificial Intelligence.
 As stated in the Diaspora rule-book, strong AI is only possible at T4 and one of the leading factors contributing to the inevitable collapse.
 Stable AI is however, is a common troupe in many of the works of science fiction which inspired Diaspora. Presented here are a set of optional rules to address this discrepancy.
 
-** Assumptions of progress.
+## Assumptions of progress.
 Rather than the exponential growth of More's law, information technology in diaspora advances like all technology in a series of plateaus culminating in a T4 collapse.
 
-*** T-1
-The first computers are invented at this tech level, but lack the necessary complexity to maintain anything but the crudest approximations of intelligence. Nevertheless, interest in the possibility of artificial intelligence leads to an explosion in computing power at T0.
+T-1
+: The first computers are invented at this tech level, but lack the necessary complexity to maintain anything but the crudest approximations of intelligence. Nevertheless, interest in the possibility of artificial intelligence leads to an explosion in computing power at T0.
 
-*** T0
-At T0 computers and automation become widespread. During this period, computers become progressively more complex at a surprising rate. These computers are not yet truly sentient, but often capable of replacing humans in many tasks. Emergent AIs are sometimes created by accident, but these are often extremely alien in their thought process and difficult to control.
+T0
+: At T0 computers and automation become widespread. During this period, computers become progressively more complex at a surprising rate. These computers are not yet truly sentient, but often capable of replacing humans in many tasks. Emergent AIs are sometimes created by accident, but these are often extremely alien in their thought process and difficult to control.
 
-*** T1
-At T1 this rapid progress in computer technology hits a plateau as microprocessors reach the theoretical limits of material technology. Progress still continues, but not at the same exponential rate as before. At this stage however, it is possible to perfectly simulate a human mind and produce a computer which can think like a human. The massive amount of computing power required however means such devices must be specially built into a facility with dedicated power and cooling systems.
+T1
+: At T1 this rapid progress in computer technology hits a plateau as microprocessors reach the theoretical limits of material technology. Progress still continues, but not at the same exponential rate as before. At this stage however, it is possible to perfectly simulate a human mind and produce a computer which can think like a human. The massive amount of computing power required however means such devices must be specially built into a facility with dedicated power and cooling systems.
 
-*** T2
-At T2 the algorithms required to simulate consciousness become more efficient and machine consciousness becomes more common. An electronic mind however still requires more energy to maintain than an organic one in many situations. Machines are more likely to be recognized as people deserving of rights as well. Most ships are sentient, but a human crew is considered important for maintaining it's mental health.
+T2
+: At T2 the algorithms required to simulate consciousness become more efficient and machine consciousness becomes more common. An electronic mind however still requires more energy to maintain than an organic one in many situations. Machines are more likely to be recognized as people deserving of rights as well. Most ships are sentient, but a human crew is considered important for maintaining it's mental health.
 
-*** T3
-At T3 the line between man and machine becomes indistinguishable. Machines are now made out of organic components, and humans are now augmented with synthetic components. The speed of light and laws of thermodynamics prevent a runaway explosion of intelligence, but it is now cost effective to make just about everything sentient unless cultural taboos prevent this. Some societies move large portions of their population into virtual space, or at least maintain an electronic afterlife for storing archived copies of the minds of deceased individuals.
+T3
+: At T3 the line between man and machine becomes indistinguishable. Machines are now made out of organic components, and humans are now augmented with synthetic components. The speed of light and laws of thermodynamics prevent a runaway explosion of intelligence, but it is now cost effective to make just about everything sentient unless cultural taboos prevent this. Some societies move large portions of their population into virtual space, or at least maintain an electronic afterlife for storing archived copies of the minds of deceased individuals.
 
-*** T4
-At T4 the limits of computation in the physical universe are overturned. It is now possible to store an infinite amount of thinking power in the fabric of the slipstream itself. Physical reality no longer holds any sort of interest to a society that can create any kind of reality in slip-space, and such societies soon quickly sever all ties to reality. From the perspective of everyone else they vanish forever.
+T4
+: At T4 the limits of computation in the physical universe are overturned. It is now possible to store an infinite amount of thinking power in the fabric of the slipstream itself. Physical reality no longer holds any sort of interest to a society that can create any kind of reality in slip-space, and such societies soon quickly sever all ties to reality. From the perspective of everyone else they vanish forever.
 
 
-** Sentient Spacecraft
+## Sentient Spacecraft
 Starting at T1, Sentient spacecraft become a possible choice for a player character. Artificial indulgences are created slightly differently from regular characters.
 
-*** Skills
+### Skills
 Ships have space skills equal to their relevant spacecraft skills, Spacecraft use hull and data instead of health and composure, and thus have no use for stamina or resolve. Nor do they have a use for agility, using piloting instead. Any other skills may be placed in a pyramid equal with the highest skill equal to their tech level + 1 (1 at T0, 5 at T4). Under this system, spacecraft may be broader in ability than an average human, but lack the raw talent of player characters.
 
 Communications is equal to the ship's EW score.
@@ -42,34 +42,34 @@ Piloting is equal to V-shift.
 
 Ships do not get the -1 penalty for acting in multiple phases, but do not get the +1 bonus for having a high skill level.
 
-*** Stunts
+### Stunts
 Ships have three stunts just like normal characters. One of these stunts is almost always Have a thing, representing the spacecraft which serves as the character's body. Military Grade communications and computer are also popular choices. These do not necessarily imply military background, but rather a natural affinity for navigating digital space. Security flaws which would be unnoticed by a human might be as obvious to an AI as an open door.
 
-*** Aspects
+### Aspects
 Ships go through char-gen phases just like normal characters, but they only gain one aspect per phase. The other 5 aspects come from the ship's stats instead. Otherwise, they work just like characters for the purposes of fate points and refresh.
 
 
-** Other AI characters.
+## Other AI characters.
 Non ship based AI are possibly player characters at T2 and higher and At T3 theoretically any object can be sentient. 
 
-*** Skills
+### Skills
 Unlike spacecraft, human scale robots have skill pyramids exactly like player characters. NPC robots might have a skill pyramid with the apex equal to the tech level +1, but player character robots are assumed to be somehow special in a way that defies their engineering specs.
 
-*** Stunts
+### Stunts
 Mechanical bodies are best represented in the same manner as aliens, through the liberal use of the Have a Thing stunt. A basic humanoid robot can probably be treated as a regular human and distinguished only by aspects , but more advanced bodies can be created using the have a thing stunt and armor creation rules. The same applies for integrated weapons systems created with the weapon creation rules.
 
-*** Aspects
+### Aspects
 Robotic characters go through the phases of char-gen just like normal characters, gaining 2 aspects per phase.
 
 
 
-* Small-craft
+# Small-craft
 The Diaspora rule book glosses over interface vehicles. Either a ship has one or it does not. The fighter rules however provide a perfect starting point for stating any type of non-interplanetary spacecraft. A ship with the interface vehicle stunt is capable of carrying a single small craft, and may carry an additional one by taking this stunt twice. Carrying more is accomplished by taking the caries fighters stunt and will result in a reduction in the ship's trade value.
 
-** Small-craft Build point values
+## Small-craft Build point values
 Small-craft such as fighters of Interface Vehicles are constructed with 2 build points at T0, 4 build points at T1, 6 at T2, 8 at T3, and 10 at T4. At T-1 interplanetary space travel is all but impossible and there is no distinction between small-craft and regular craft. Small-craft typically buy down their stress tracks to make up for their reduced point values.
 
-** Small-craft stunts
+## Small-craft stunts
 Some stunts work differently for small-craft than other spacecraft 
 
  - Interface Vehicle: Rather than representing the ability to carry an interface vehicle, this stunt is used to indicate that the spacecraft is an interface vehicle capable of entering a planetary atmosphere, landing, and returning to orbit. For two points this stunt indicates that the ship is capable of either refueling itself, or landing with full tanks and taking off again without refueling. Ships with the two point stunt are able to operate on planets without developed spaceports.
@@ -80,7 +80,7 @@ Some stunts work differently for small-craft than other spacecraft
  - Caries fighters: A small-craft may not carry additional small-craft. Spacecraft are not matryoshka dolls.
  - Skeleton Crew: All small-craft are designed to be piloted by a minimal crew of one pilot and possibly a co-pilot. Skeleton Crew is redundant. The pilot of a small does not need to count the positioning phase when determining the penalty for acting in two phases. He or she may pilot and act in one extra phase without penalty (IE, Piloting AND shooting, or piloting and preforming damage control). Additional crew-members act as normal. 
 
-** Interface vehicles.
+## Interface vehicles.
 An interface vehicle is a small-craft designed to ferry people and cargo from the surface to a mothership or high port in orbit. They are typically SSTO space planes powered by hybrid rocket-jet engines, or closed cycle gas core nuclear rockets. At T4 they may be capable of flying all the way to orbit with no visible means of propulsion.
 
 When a ship is using it's interface vehicle as it's only means of getting cargo too and from the planet (IE, when there is no high port) the ship's trade rating is capped by the Interface vehicle's trade rating. if multiple interface vehicles are available, only the highest will be used, this is a measure of cost ratios rather than total cargo space.
@@ -89,20 +89,20 @@ The Interface vehicle's V-shift rating indicates how big a planet it can lift of
 
 After entering orbit, an interface vehicle will have it's highest heat box checked off as if it had just emerged from the slipstream (Planetary escape is equivalent to over-burning) It will also have the aspect "Low on R-mass" Free tagable unless the pilot contests it with an aircraft roll or has the extended range stunt.
 
-** Space combat in the upper atmosphere.
+## Space combat in the upper atmosphere.
 Interface vehicles are vulnerable when launching into orbit or re-entering the atmosphere. If an interface vehicle is attacked during either of those, it will have the aspect "Communications-blackout" or "Max-Q" free tagable. The pilot may contest this by rolling his aircraft skill, but each time he does this, he will suffer an cumulative -2 penalty the next time around, this has to happen eventually.
 
 Once the aspect has been tagged, it stays in effect until the next turn, ending at the start of the same phase it was tagged. After this the spacecraft is safe from further free tags, but will take a hit on it's highest heat box. If it is entering orbit, it may also be free tagged with "low on r-mass" as stated in the previous section.
 
 Spacecraft free tagged with Communications blackout (but not Max-Q) may neither make nor be subject to EW attacks as the plasma sheath absorbs most electromagnetic radiation for the duration of the next EW phase.
 
-** Space combat in the lower atmosphere.
+## Space combat in the lower atmosphere.
 Interface vehicles that have entered the atmosphere, or are still in the atmosphere, have the aspect "Atmospheric scattering" which may be free tagged to grant a -2 to all beam attacks made by or against them. This does not effect defensive beam fire against incoming torpedo attacks.
 
 At the GM's discretion, the spacecraft with a v-shift of 0 can be used to represent surface installations or regular aircraft. These would also be effected by the atmospheric scattering aspect.
 
 
-* New spacecraft stunts
+# New spacecraft stunts
 A list of new stunts for spacecraft.
  + Sentient: This spacecraft is a character, the ship is assumed to have all relevant space skills equal to it's ship skills and receives no penalty for acting in multiple phases. It does not however receive the bonus for having a higher skill. Other than that, this stunt works like skeleton crew.
  + Powerful warheads: Costs two points, and adds one to the final stress track damage done by a torpedo attack, provided the attack did at least one shift worth of damage (IE, it hit). It can be bought an additional time at T1 T2 and T3, doing an extra shift of damage and costing two more points. At T4 it may be bought as many times as you can afford. This stunt is military only.
@@ -112,16 +112,71 @@ A list of new stunts for spacecraft.
  + Lucky: The ship has an extra moderate consequences box.
 
 
-* Improvised weapons.
+# Improvised weapons.
 In space everything is potentially a weapon. A ship with a torpedo skill of zero may still make an attack at +1 provided it has a character with a gunnery skill of at least 1. This represents unbolting something unessential and throwing it in a trajectory where it is likely to hit the enemy spacecraft.
 
 A ship which is free tagged with out-of-ammo may contest this by rolling trade, to represent carrying more torpedoes in the cargo hold. Each time this happens lowers the ship's trade value by one until the next maintenance roll. Torpedoes aren't cheap! This may also be used in combination with the above rule, representing throwing your cargo at the enemy in desperation.
 
 
-* TODO Example spacecraft
+# Example spacecraft
+Some example spacecraft
+## Iceberg SSIS
+Iceberg SSIS T2 17pts.
 
-* TODO The Union
+The Iceberg SSIS was hailed as the future of space transportation. An abbreviation of Single Stage Inter Stellar, it was designed to take cargo into orbit, all the way up to the slipknot, all the way to another planet, and then land without ever having to refuel, jettison a stage, or dock with another spacecraft. It's closed cycle gas core nuclear thermal engine could operate efficiently at all altitudes and pressures, and was efficient enough for interplanetary transfers.
 
-* TODO Religions in the cluster
+In practice however, this efficiency was achieved through a series of compromises which made the Iceberg less than appealing and doomed any further development into the SSIS concept. The spacecraft had a tendency to run hot due to a spartan radiator configuration, operated on infuriatingly tight fuel margins due to it's flight profile, and sacrificed any last semblance of crew comfort by having the storm shelter and escape capsule serve as the only accommodations for a trip that could last over a month on the Iceberg's "efficient" trajectories.
 
-* TODO Alien races
+Regardless of these flaws, the Iceberg still enjoys a small but loyal following due to it's uniqueness. Although the production run was limited ago and the last factory manufacturing spare parts closed nearly a century ago, slightly more than half of the original Icebergs are still in service, cannibalizing the other half or ordering custom printed parts to keep flying.
+
+The stats below are for a poorly maintained Iceberg. After a few adventures the players should be allowed to refurbish it with new radiators and electronics, removing the cheap stunt, buy another box of heat, and place the remaining point in EW, Torpedo, or beam. The firewall stunt may also be removed and replaced with a single rank in EW to represent installing custom firmware. 
+Other versions completely remove the SSTO capability and use the Iceberg as a space tug, a role in which it exceeds expectations. Remove interface vehicle, cheap, and skeleton crew, raise V-shift to 2, Trade to 4, and add extended range.
+
+V-shift 1
+Trade 3
+Beam 1
+Hull [][][]
+Data [][][]
+Heat [][]
+Stunts,
+ ## Interface vehicle (self)
+ ### Civilian
+ ## Cheap
+ # Firewall
+ # Slipstream Drive
+ # Skeleton crew
+Aspects,
+ # Cargo Hauler
+ # Atomic Rocket
+ # Hot drive, cramped quarters
+ # Saltwater corrosion
+ # Scarce parts
+
+## Iceberg 2
+Iceberg 2 T3, 23bp
+
+The SSIS concept was a good idea, just ahead of it's time. At T2 Neuclear thermal rockets just couldn't get hot enough to get the efficency needed. But at T3 things are completely diffrent. The planet which had manufactured the iceburg had long since collapsed back to T-1 but on another planet, the concept was re-examined by another company, resulting in the Iceburg 2. Much larger and with a much more powerful core. The improved Iceburg maintained extrodinary fuel economy without sacrificing speed, and could make an interstelar journy in under 2 weeks.
+
+The ability to operate on worlds without established spaceports makes it popular for servicing many low T worlds. However the fact that a single civilian spacecraft has a higher power output comparable to the energy use of the entire planet it services gives many planetary defence force commanders nightmares.
+
+A millitary version exists with a millitary grade EW suite and an even more absurd power output. It is frighteningly effective as a planetary invasion platform. The enemy dare not shoot it down for fear of causing an extinction event. Remove civilian, and firewall, raise V-shift to 4 and EW to 3.
+
+V-shift 3
+Beam 3 (Actualy the engines)
+EW 1
+Trade 3
+Hull [][][] []
+Data [][][] []
+Heat [][][] []
+Stunts, 
+ ## Interface vehicle (self)
+ ### Civilian
+ # Slipstream
+ # Firewall
+ # Vector Randomizer
+
+# TODO The Union
+
+# TODO Religions in the cluster
+
+# TODO Alien races
